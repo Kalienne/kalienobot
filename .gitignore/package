@@ -1,0 +1,23 @@
+{
+  "name": "kalienobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-music-v11": "^1.3.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "lowdb": "^1.0.0",
+    "node-gyp": "^3.6.2",
+    "opus": "0.0.0",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2",
+    "youtube-audio-stream": "^0.2.0",
+    "ytdl-core": "^0.20.2"
+  }
+}
